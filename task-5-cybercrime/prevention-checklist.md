@@ -30,10 +30,10 @@ If You Are Scammed: Act Within the Golden Hour
 
 Reporting financial fraud within the first 60 minutes significantly increases the chances of the bank freezing the money before the scammer can withdraw it.
 
-Channel                Contact Information
+Channel:-                Contact Information
 
-National Helpline      Call 1930 (Available 24/7)
+National Helpline:-      Call 1930 (Available 24/7)
 
-Official Portal        cybercrime.gov.in
+Official Portal:-        cybercrime.gov.in
 
-Action Step            Save screenshots of the chat, transaction IDs, and the scammer's number/UPI ID immediately.
+Action Step:-            Save screenshots of the chat, transaction IDs, and the scammer's number/UPI ID immediately.
